@@ -7,7 +7,16 @@ The repository covers core Java concepts, object-oriented programming, and commo
 
 This repository is not a full-fledged course or tutorial. Instead, it’s a collection of my personal notes, code snippets, and problem-solving exercises created while learning Java and Data Structures & Algorithms.
 
-[Navigate to the topics outlined below.](#table-of-contents)
+## Table of Contents
+
+> ✨ This section will continue to grow as more topics are added:
+
+- [Setup Java](#setup-java-locally)
+- [Run Java Code](#running-java-code-vs-code--cli)
+- [Flowcharts and Pseudocode](flowchartsAndPseudocode)
+- [Variables And Data Types](variablesAndDataTypes)
+- [Operators](operators)
+
 
 ## Setup Java Locally
 
@@ -36,21 +45,6 @@ javac -version
     javac Main.java   # Compile
     java Main         # Run
     ```
-
-## Repository Structure
-
-- Each topic is organized into separate `folders/files` for clarity.
-- File and folder names are chosen to match their respective topics for easy identification.
-- Both notes (e.g. `README.md`) and practical code examples are included to support hands-on learning.
-- Visual aids such as images or diagrams are stored in dedicated subfolders (e.g. `assets/`) where needed.
-- Nested folders (e.g. `practice/`) are used to group related exercises or solutions within a topic.
-
-## Table of Contents
-
-> ✨ This section will continue to grow as more topics are added:
-
-- [Flowcharts and Pseudocode](flowchartsAndPseudocode)
-- [Variables And Data Types](variablesAndDataTypes)
 
 ## License
 
