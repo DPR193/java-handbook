@@ -50,6 +50,7 @@ javac -version
 > ✨ This section will continue to grow as more topics are added:
 
 - [Flowcharts and Pseudocode](flowchartsAndPseudocode)
+- [Variables And Data Types](variablesAndDataTypes)
 
 ## License
 
