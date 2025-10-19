@@ -16,7 +16,7 @@ This repository is not a full-fledged course or tutorial. Instead, it’s a coll
 - [Flowcharts and Pseudocode](flowchartsAndPseudocode)
 - [Variables And Data Types](variablesAndDataTypes)
 - [Operators](operators)
-
+- [Conditional Statements](conditionalStatements)
 
 ## Setup Java Locally
 
