@@ -1,11 +1,9 @@
-# Java Programming & DSA Learning Repository
+# Java Programming & DSA Handbook
+This repository is a structured collection of notes, code examples, and problem-solving exercises focused on Java programming and Data Structures & Algorithms (DSA).
 
-> **🌟 Star this repository if you find it useful!**
+It covers core Java fundamentals, object-oriented programming (OOP), and essential DSA topics such as arrays, linked lists, stacks, queues, trees, recursion, searching, and sorting. The content combines theoretical explanations with practical coding examples, organized by topic for easy navigation.
 
-Welcome to my **Java Programming & DSA** learning repository. This is a collection of notes, code examples, and problem-solving exercises created while learning Java.
-The repository covers core Java concepts, object-oriented programming, and common data structures and algorithms. It includes both theory and hands-on practice, organized topic-wise for easy reference.
-
-This repository is not a full-fledged course or tutorial. Instead, it’s a collection of my personal notes, code snippets, and problem-solving exercises created while learning Java and Data Structures & Algorithms.
+This is not a full course or tutorial series, but a comprehensive reference resource for learning Java and DSA.
 
 ## Table of Contents
 
@@ -40,6 +38,7 @@ javac -version
     - Install the **Java Extension Pack** from the Extensions tab.
     - Open your `.java` file.
     - Click "Run" or use shortcut `Ctrl` + `F5` to execute.
+
 - Using Command Line
     ```bash
     javac Main.java   # Compile
