@@ -11,10 +11,10 @@ This is not a full course or tutorial series, but a comprehensive reference reso
 
 - [Setup Java](#setup-java-locally)
 - [Run Java Code](#running-java-code-vs-code--cli)
-- [Flowcharts and Pseudocode](flowchartsAndPseudocode)
-- [Variables And Data Types](variablesAndDataTypes)
+- [Flowcharts and Pseudocode](flowcharts-and-pseudocode)
+- [Variables And Data Types](variables-and-datatypes)
 - [Operators](operators)
-- [Conditional Statements](conditionalStatements)
+- [Conditional Statements](conditional-statements)
 
 ## Setup Java Locally
 
