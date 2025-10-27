@@ -1,5 +1,5 @@
 public class Basics {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         // if else statement
         // int age = 16;

@@ -6,7 +6,7 @@
 
     ```java
     public class Solution { 
-        public static void main(String args[]) {
+        public static void main(String[] args) {
             double temp = 103.5;
         }
     }
@@ -18,7 +18,7 @@
 
     ```java
     public class Solution {
-        public static void main(String args[]) {
+        public static void main(String[] args) {
             int a = 63, b = 36;
             boolean x = ( a < b)? true : false;
             int y = (a > b)? a : b;

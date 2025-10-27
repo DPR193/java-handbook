@@ -1,5 +1,5 @@
 public class Output {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         System.out.print("Hello World! 1"); // Prints "Hello World! 1" on the same line
         
         System.out.println("Hello World! 2"); // Prints "Hello World! 2" and moves to the next line
