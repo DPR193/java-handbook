@@ -15,6 +15,11 @@ This is not a full course or tutorial series, but a comprehensive reference reso
 - [Variables And Data Types](variables-and-datatypes)
 - [Operators](operators)
 - [Conditional Statements](conditional-statements)
+- [Loops (Flow Control)](loops)
+
+## Related Repositories
+- [Java Mini Projects](https://github.com/itsjomon/java-mini-projects)
+- [CS Fundamentals](https://github.com/itsjomon/cs-fundamentals)
 
 ## Setup Java Locally
 
